@@ -1,9 +1,9 @@
-body {
+body,html {
   padding: 0;
   margin: 0;
-  color: #1b1b2f;
- 
   
+ 
+  overflow-y: ;
  
 }
 .
@@ -414,6 +414,18 @@ background-repeat: no-repeat;
 }
 .Ci{
   padding: px;
+}
+.Services{
+  width: 100%;
+  padding: 10px;
+  overflow: hidden;
+  overflow-y: hidden;
+}
+.products{
+  width: 100%;
+  padding: 10px;
+  overflow: hidden;
+  overflow-y: hidden;
 }
 
 }
